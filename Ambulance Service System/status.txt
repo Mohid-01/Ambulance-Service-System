@@ -1,0 +1,6 @@
+                                                                                 Ambulance Service System
+Tasks:
+1.we have done all the requirement i.e Adding of employees,removing of employees using file handling ,manage emploees, dispatching of ambulances of different selected Section,Performance Report of every employee data of emploee stored in CSV file and for admin in text file our call reciever will recieves call and send message to dispatch ambulance.Implement data structure stack and queues ,stack in case of employees and queue as when ambulance dispatches.The Parademic we add is to assist the patient from ambulance to hospital and return again to parking spot.
+2.We tried to implement Red black tree  to Search and Delete data of our employees but couldnt able to finish it if we found some more time then it could possible to complete and integerate.
+3.In future we will add more features to it by using trees to find the path where shortest distance covered to manage ambulances and also using
+maps to visualize ambulances avaliable,also to search and delete employees using red black tree.
